@@ -26,5 +26,6 @@
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
   "main": "vite.config.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://tahira-sakhi.github.io/cloned-gemini"
 }
