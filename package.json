@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "deployvite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,23 +12,31 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "gh-pages": "^6.1.1",
+    "express": "^4.19.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/react": "^18.2.56",
-    "@types/react-dom": "^18.2.19",
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
     "@vitejs/plugin-react": "^4.2.1",
-    "eslint": "^8.56.0",
-    "eslint-plugin-react": "^7.33.2",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-react-refresh": "^0.4.5",
-    "vite": "^5.1.4"
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "vite": "^5.2.0",
+    "gh-pages": "^5.0.0"
   },
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
   "main": "vite.config.js",
   "author": "",
   "license": "ISC",
-  "homepage": "https://tahira-sakhi.github.io/cloned-gemini"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahira-sakhi/cloned-gemini.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tahira-sakhi/cloned-gemini/issues"
+  },
+  "homepage": "https://github.com/tahira-sakhi/cloned-gemini#readme"
 }
